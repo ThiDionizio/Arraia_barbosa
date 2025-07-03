@@ -26,3 +26,9 @@ button {
 .foto-escola {
  border-radius: 20px;
 }
+
+principal {
+  background-color: #1349a1;
+  padding: 30px, 100px;
+  border-radius: 20px;
+}
